@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "GitHub Blog Test Post"
 excerpt: "TestPost"
 
