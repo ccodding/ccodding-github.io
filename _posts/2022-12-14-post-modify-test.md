@@ -3,11 +3,6 @@ layout: post
 title: "GitHub Blog Test Post"
 excerpt: "TestPost"
 
-categories:
-  - blog
-tags:
-  - [content, blog, post]
-
 toc: true
 toc_sticky: true
 
