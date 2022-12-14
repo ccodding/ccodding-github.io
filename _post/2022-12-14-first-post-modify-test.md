@@ -3,12 +3,6 @@ layout: post
 title: "GitHub Blog Test Post"
 excerpt: "TestPost"
 
-toc: true
-toc_sticky: true
-
-date: none
-last_modified_at: none
-
 ---
 
 # TestPosting1
