@@ -4,9 +4,9 @@ title: "GitHub Blog Test Post"
 excerpt: "TestPost"
 
 categories:
-  - Blog
+  - blog
 tags:
-  - [Content, Blog, Post]
+  - [content, blog, post]
 
 toc: true
 toc_sticky: true
@@ -18,6 +18,12 @@ last_modified_at: none
 
 # TestPosting1
 
+text_1
+
 ## TestPosting2
 
+text_2
+
 ### TestPosting3
+
+text_3
