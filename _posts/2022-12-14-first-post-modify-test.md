@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GitHub Blog Test Post
-excerpt: TestPost
+title: "GitHub Blog Test Post"
+excerpt: "TestPost"
 
 ---
 
